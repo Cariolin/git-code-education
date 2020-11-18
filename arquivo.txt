@@ -2,6 +2,6 @@ Olá Git!
 
 como salvar no VIM?
 
-pressione ESC e digite ZZ
+pressione ESC e digite :w para somente salvar ou :wq para salvar e sair.
 
 
