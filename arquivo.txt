@@ -1,0 +1,7 @@
+Olá Git!
+
+como salvar no VIM?
+
+pressione ESC e digite ZZ
+
+
